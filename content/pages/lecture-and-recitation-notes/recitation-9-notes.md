@@ -46,7 +46,7 @@ Corollary: We may assume without loss of generality that _x_ (those who buy) hav
     2.  Maximizing this with respect to _v̅_ yields the social best.
 2.  Nash equilibrum
     1.  Pooling equilibrum:  
-        If no one has the good (_x_ = 0) then no one has incentive to buy ( _v__i_ \* 0 — _p_ < 0). Therefore, _x__\*_ = 0 is an equilibrium. 
+        If no one has the good (_x_ = 0) then no one has incentive to buy ( _v__i_ \* 0 — _p_ \< 0). Therefore, _x__\*_ = 0 is an equilibrium. 
     2.  Separating equilibrium:  
         If someone buys (_x_ > 0), then there exists the lowest type _v̅_ who buys. His incentive must balance _v̅x_ — _p_ = 0.
 

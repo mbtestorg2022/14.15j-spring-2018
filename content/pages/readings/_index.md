@@ -14,21 +14,297 @@ Many sessions also have a [recommended list]({{< baseurl >}}/pages/readings/reco
 
 \[Osborne\] Osborne, Martin. _Introduction to Game Theory_. Oxford University Press, 2003. ISBN: 9780195128956.
 
-| Ses # | Topic | Readings |
-| --- | --- | --- |
-| 1 | Introduction to Social, Economic, and Technological Networks |  {{< br >}}{{< br >}} \[Newman\] Skim Chapters 1–5 {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[EK\] Chapter 1 {{< br >}}{{< br >}}  |
-| 2–3 | Network Representations, Measures, and Metrics |  {{< br >}}{{< br >}} \[Newman\] Chapters 6–7 {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[EK\] Skim Chapters 2–5 {{< br >}}{{< br >}}  |
-| 4–6 | Linear Dynamical Systems, Markov Chains, and Centralities |  {{< br >}}{{< br >}} \[Newman\] 6–7 {{< br >}}{{< br >}}  |
-| 7 | Dynamics Over Graph: Spread of Information and Distributed Computation |  {{< br >}}{{< br >}} No assigned readings, see [recommended readings]({{< baseurl >}}/pages/readings/recommended-readings) {{< br >}}{{< br >}}  |
-| 8 | Graph Decomposition and Cluttering | \[Newman\] Chapters 6 and 11 |
-| 9–11 | Random Graph Models | \[Newman\] Chapters 12–13 |
-| 12 | Generative Graph Models | \[Newman\] Chapters 14–15 |
-| 13‑14 | Introduction to Game Theory |  {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[EK\] Chapter 6 {{< br >}}{{< br >}} \[Osborne\] 1–6 {{< br >}}{{< br >}}  |
-| 15 | Traffic Flow and Congestion Games |  {{< br >}}{{< br >}} _Optional:_ {{< br >}}{{< br >}} \[EK\] Chapter 8 {{< br >}}{{< br >}} \[Jackson\] Chapter 6 {{< br >}}{{< br >}}  |
-| 16 | Network Effects (I) |  {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[EK\] Chapter 17 {{< br >}}{{< br >}}  |
-| 17 | Network Effects (II) |  {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[Jackson\] Chapters 9, 11 {{< br >}}{{< br >}}  |
-| 18 | Networked Markets |  {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[EK\] Chapters 10–11 {{< br >}}{{< br >}} \[Jackson\] Chapter 10 {{< br >}}{{< br >}}  |
-| 19 | Repeated Games, Cooperation, and Strategic Network Formation |  {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[Osborne\] Chapters 14–15 {{< br >}}{{< br >}}  |
-| 20–21 | Diffusion Models and Contagion |  {{< br >}}{{< br >}} _Optional_: {{< br >}}{{< br >}} \[EK\] Chapter 19 {{< br >}}{{< br >}} \[Jackson\] Chapter 7.2 {{< br >}}{{< br >}}  |
-| 22–24 | Games with Incomplete Information and Introduction to Social Learning, Herding, and Informational Cascades |  {{< br >}}{{< br >}} _Optional_:  {{< br >}}{{< br >}} \[EK\] Chapter 16 {{< br >}}{{< br >}} \[Jackson\] Chapter 6–7 {{< br >}}{{< br >}} \[Osborne\] Chapter 9 {{< br >}}{{< br >}}  |
-| 25 | Project Presentations | No assigned readings
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topic
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Social, Economic, and Technological Networks
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Newman\] Skim Chapters 1–5
+
+_Optional_:
+
+\[EK\] Chapter 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Network Representations, Measures, and Metrics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Newman\] Chapters 6–7
+
+_Optional_:
+
+\[EK\] Skim Chapters 2–5
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–6
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Dynamical Systems, Markov Chains, and Centralities
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Newman\] 6–7
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics Over Graph: Spread of Information and Distributed Computation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+No assigned readings, see [recommended readings]({{< baseurl >}}/pages/readings/recommended-readings)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Decomposition and Cluttering
+{{< tdclose >}}
+{{< tdopen >}}
+\[Newman\] Chapters 6 and 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–11
+{{< tdclose >}}
+{{< tdopen >}}
+Random Graph Models
+{{< tdclose >}}
+{{< tdopen >}}
+\[Newman\] Chapters 12–13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Generative Graph Models
+{{< tdclose >}}
+{{< tdopen >}}
+\[Newman\] Chapters 14–15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13‑14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Game Theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_:
+
+\[EK\] Chapter 6
+
+\[Osborne\] 1–6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Traffic Flow and Congestion Games
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional:_
+
+\[EK\] Chapter 8
+
+\[Jackson\] Chapter 6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Network Effects (I)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_:
+
+\[EK\] Chapter 17
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Network Effects (II)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_:
+
+\[Jackson\] Chapters 9, 11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Networked Markets
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_:
+
+\[EK\] Chapters 10–11
+
+\[Jackson\] Chapter 10
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Repeated Games, Cooperation, and Strategic Network Formation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_:
+
+\[Osborne\] Chapters 14–15
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20–21
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion Models and Contagion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_:
+
+\[EK\] Chapter 19
+
+\[Jackson\] Chapter 7.2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22–24
+{{< tdclose >}}
+{{< tdopen >}}
+Games with Incomplete Information and Introduction to Social Learning, Herding, and Informational Cascades
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Optional_: 
+
+\[EK\] Chapter 16
+
+\[Jackson\] Chapter 6–7
+
+\[Osborne\] Chapter 9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -49,10 +49,48 @@ Nash equlibrium only requires mutual optimality:
 
 ### _Example_: Battle of the Sexes
 
-| &nbsp; | Shopping |  Football |
-| --- | --- | --- |
-| Shopping | (3, 2) | (0, 0) |
-| Football | (0, 0) | (2, 3) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+Shopping
+{{< thclose >}}
+{{< thopen >}}
+ Football
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Shopping
+{{< thclose >}}
+{{< tdopen >}}
+(3, 2)
+{{< tdclose >}}
+{{< tdopen >}}
+(0, 0)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Football
+{{< thclose >}}
+{{< tdopen >}}
+(0, 0)
+{{< tdclose >}}
+{{< tdopen >}}
+(2, 3)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Where (3, 2) and (2, 3) are the two Nash equalibirums.
 

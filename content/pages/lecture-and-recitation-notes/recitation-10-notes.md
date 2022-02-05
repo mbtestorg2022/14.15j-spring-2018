@@ -20,10 +20,48 @@ In the real world, strategic interactions continue over a period of time. Dynami
 
 Recall the Prisoner's Dilemma:
 
-| &nbsp; | C |  D |
-| --- | --- | --- |
-| C | (1, 1) | (-1, 2) |
-| D | (2, -1) | (0, 0) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+C
+{{< thclose >}}
+{{< thopen >}}
+ D
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+C
+{{< thclose >}}
+{{< tdopen >}}
+(1, 1)
+{{< tdclose >}}
+{{< tdopen >}}
+(-1, 2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+D
+{{< thclose >}}
+{{< tdopen >}}
+(2, -1)
+{{< tdclose >}}
+{{< tdopen >}}
+(0, 0)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Both cooperate (1,1): Cooperative outcome (against individual's incentives?).  
 Both defect (0,0): Nash equilibrium outcome.
@@ -38,9 +76,102 @@ Infinitely Repeated Prisoner's Dilemma
 
 _Folk Theorem_: (C, C) → (C, C) → ... can be a equilibrum outcome if players are patient enough. 
 
-| &nbsp; | C  | D  | &nbsp; | C | D  |
-| C  | (1, 1) | (-1, 2) | &nbsp; | → | &nbsp; | C | (1, 1) | (-1, 2) | →  ... |
-| D | (2, -1) | (0, 0) | &nbsp; | D | (2, -1) | (0, 0) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+C 
+{{< thclose >}}
+{{< thopen >}}
+D 
+{{< thclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+C
+{{< thclose >}}
+{{< thopen >}}
+D 
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+C 
+{{< thclose >}}
+{{< tdopen >}}
+(1, 1)
+{{< tdclose >}}
+{{< tdopen >}}
+(-1, 2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+→
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+C
+{{< thclose >}}
+{{< tdopen >}}
+(1, 1)
+{{< tdclose >}}
+{{< tdopen >}}
+(-1, 2)
+{{< tdclose >}}
+{{< tdopen >}}
+→  ...
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+D
+{{< thclose >}}
+{{< tdopen >}}
+(2, -1)
+{{< tdclose >}}
+{{< tdopen >}}
+(0, 0)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< thopen >}}
+D
+{{< thclose >}}
+{{< tdopen >}}
+(2, -1)
+{{< tdclose >}}
+{{< tdopen >}}
+(0, 0)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Proof_:
 

@@ -23,10 +23,48 @@ A game is a representation of strategic interaction. 
 
 ### Example: Prisoner's Dilemma
 
-| &nbsp; | 2 Silent  |  2 Confess |
-| --- | --- | --- |
-| 1 Silent | \-2, -2 | \-20, 0 |
-| 1 Confess | 0, -20 | \-10, -10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+2 Silent 
+{{< thclose >}}
+{{< thopen >}}
+ 2 Confess
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+1 Silent
+{{< thclose >}}
+{{< tdopen >}}
+\-2, -2
+{{< tdclose >}}
+{{< tdopen >}}
+\-20, 0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+1 Confess
+{{< thclose >}}
+{{< tdopen >}}
+0, -20
+{{< tdclose >}}
+{{< tdopen >}}
+\-10, -10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Example: Cournot Competition
 
@@ -53,10 +91,48 @@ Formally, a game consists of 3 elements:
 *   _S1_ = {silent, confess}, _S2_ = {silent, confess}
 *   _u1_ : _S1_ \* _S2_ → ℝ and _u2_ : _S1_ \* _S2_  → ℝ are given by the table, where _u1_ is red and _u2_ is blue.
 
-| &nbsp; | 2 Silent  |  2 Confess |
-| --- | --- | --- |
-| 1 Silent | \-2, \-2 | \-20, 0 |
-| 1 Confess | 0, \-20 | \-10, \-10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+2 Silent 
+{{< thclose >}}
+{{< thopen >}}
+ 2 Confess
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+1 Silent
+{{< thclose >}}
+{{< tdopen >}}
+\-2, \-2
+{{< tdclose >}}
+{{< tdopen >}}
+\-20, 0
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+1 Confess
+{{< thclose >}}
+{{< tdopen >}}
+0, \-20
+{{< tdclose >}}
+{{< tdopen >}}
+\-10, \-10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Example: Cournot Competition
 

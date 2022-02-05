@@ -6,32 +6,353 @@ uid: c497090f-036e-3acb-00c8-82759d51457a
 
 Lecture sessions are on Tuesdays and Thursdays; Recitations are once a week on Fridays.
 
-| Ses # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | Introduction to Social, Economic, and Technological Networks | &nbsp; |
-| 2 | Network Representations, Measures, and Metrics (I) | &nbsp; |
-| 3 | Network Representations, Measures, and Metrics (II) | &nbsp; |
-| 4 | Linear Dynamic Systems, Markov Chains, and Centralities (I) | &nbsp; |
-| 5 | Linear Dynamic Systems, Markov Chains, and Centralities (II) | &nbsp; |
-| 6 | Linear Dynamic Systems, Markov Chains, and Centralities (III) | &nbsp; |
-| 7 | Dynamics Over Graph: Information Spread and Distributed Computation | Problem Set 1 Due |
-| 8 | Graph Decomposition, Clustering, and Connectivity | &nbsp; |
-| 9 | Random Graph Models, Branching Processes, Phase Transition, and Connectedness (I) | &nbsp; |
-| 10 | Random Graph Models, Branching Processes, Phase Transition, and Connectedness (II) | &nbsp; |
-| 11 | Random Graph Models, Branching Processes, Phase Transition, and Connectedness (III) |  {{< br >}}{{< br >}} Problem Set 2 Due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}Midterm{{< /td-colspan >}} |||
-| 12 | Generative Network Models | &nbsp; |
-| 13 | Introduction to Game Theory (I) | &nbsp; |
-| 14 | Introduction to Game Theory (II) |  {{< br >}}{{< br >}} Problem Set 3 Due {{< br >}}{{< br >}}  |
-| 15 | Traffic Flow and Congestion Games | &nbsp; |
-| 16 | Network Effects (I) | &nbsp; |
-| 17 | Network Effects (II) |  {{< br >}}{{< br >}} Problem Set 4 Due {{< br >}}{{< br >}}  |
-| 18 | Networked Markets | &nbsp; |
-| 19 | Repeated Games, Cooperation, and Network Applications | &nbsp; |
-| 20 | Diffusion Models (I) | &nbsp; |
-| 21 | Diffusion Models (II) |  {{< br >}}{{< br >}} Problem Set 5 Due {{< br >}}{{< br >}}  |
-| 22 | Games with Incomplete Information and Introduction to Social Learning | &nbsp; |
-| 23 | Social Learning | &nbsp; |
-| 24 | Strategic Network Formation | &nbsp; |
-| 25 | Project Presentations |  {{< br >}}{{< br >}} (Optional) Problem Set 6 {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}Final Exam{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Social, Economic, and Technological Networks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Network Representations, Measures, and Metrics (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Network Representations, Measures, and Metrics (II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Dynamic Systems, Markov Chains, and Centralities (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Dynamic Systems, Markov Chains, and Centralities (II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Dynamic Systems, Markov Chains, and Centralities (III)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamics Over Graph: Information Spread and Distributed Computation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Graph Decomposition, Clustering, and Connectivity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Random Graph Models, Branching Processes, Phase Transition, and Connectedness (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Random Graph Models, Branching Processes, Phase Transition, and Connectedness (II)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Random Graph Models, Branching Processes, Phase Transition, and Connectedness (III)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 2 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Midterm
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Generative Network Models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Game Theory (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Game Theory (II)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 3 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Traffic Flow and Congestion Games
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Network Effects (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Network Effects (II)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 4 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Networked Markets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Repeated Games, Cooperation, and Network Applications
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion Models (I)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion Models (II)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem Set 5 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Games with Incomplete Information and Introduction to Social Learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Social Learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Strategic Network Formation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(Optional) Problem Set 6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -4,7 +4,36 @@ title: Exams
 uid: 1b95ec8c-e3db-d034-9f3c-decd0497c16a
 ---
 
-| Exam | Solutions |
-| --- | --- |
-| [Midterm (PDF)]({{< baseurl >}}/resources/mit14_15js18_exam) | [Midterm Solutions (PDF)]({{< baseurl >}}/resources/mit14_15js18_examsol) |
-| [Final Exam Practice Problems (PDF)]({{< baseurl >}}/resources/mit14_15js18_practice) | [Final Exam Practice Solutions (PDF)]({{< baseurl >}}/resources/mit14_15js18_practicesol)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Exam
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Midterm (PDF)]({{< baseurl >}}/resources/mit14_15js18_exam)
+{{< tdclose >}}
+{{< tdopen >}}
+[Midterm Solutions (PDF)]({{< baseurl >}}/resources/mit14_15js18_examsol)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Final Exam Practice Problems (PDF)]({{< baseurl >}}/resources/mit14_15js18_practice)
+{{< tdclose >}}
+{{< tdopen >}}
+[Final Exam Practice Solutions (PDF)]({{< baseurl >}}/resources/mit14_15js18_practicesol)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
