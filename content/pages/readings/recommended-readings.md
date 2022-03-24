@@ -180,9 +180,9 @@ Network Effects (II)
 
 Bramoullé, Yann, Rachel Kranton, and Martin D'Amours. "[Strategic Interaction and Networks](https://www.aeaweb.org/articles?id=10.1257/aer.104.3.898)." American Economic Review, 104 (2014): 898-930.
 
-Ballester, Coralio, Antoni Calvó-Armengol, and Yves Zenou. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Who’s Who in Networks. Wanted: The Key Player (PDF)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-0262.2006.00709.x).” 2005.
+Ballester, Coralio, Antoni Calvó-Armengol, and Yves Zenou. “[Who’s Who in Networks. Wanted: The Key Player (PDF)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-0262.2006.00709.x).” 2005.
 
-Candogan, Ozan, Kostas Bimpikis, and Asuman Ozdaglar. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Optimal Pricing in Networks with Externalities (PDF)](https://stanford.edu/~kostasb/publications/optimal_pricing.pdf).” _Operations Research_ 60, no. 4 (2012): 883–905.
+Candogan, Ozan, Kostas Bimpikis, and Asuman Ozdaglar. “[Optimal Pricing in Networks with Externalities (PDF)](https://stanford.edu/~kostasb/publications/optimal_pricing.pdf).” _Operations Research_ 60, no. 4 (2012): 883–905.
 
 Goyal, Sanjeev. _Connections: An Introduction to the Economics of Networks_. Princeton University Press, 2009. ISBN: 9780691141183. Chapter 3.
 
@@ -200,9 +200,9 @@ Networked Markets
 {{< tdopen >}}
 
 
-Mihai, Manea. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bargaining in Stationary Networks (PDF - 1.1MB)](https://economics.mit.edu/files/11184).” _American Economic Review_ 101 (2011): 2042–2080.
+Mihai, Manea. “[Bargaining in Stationary Networks (PDF - 1.1MB)](https://economics.mit.edu/files/11184).” _American Economic Review_ 101 (2011): 2042–2080.
 
-Acemoglu, Daron, Vasco Carvalho, et al. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Network Origins of Aggregate Fluctuations (PDF)](https://economics.mit.edu/files/8135).” _Econometrica_ 80, no. 5 (2012): 1977–2016. 
+Acemoglu, Daron, Vasco Carvalho, et al. “[The Network Origins of Aggregate Fluctuations (PDF)](https://economics.mit.edu/files/8135).” _Econometrica_ 80, no. 5 (2012): 1977–2016. 
 
 Parker, Gregory, Marshall Van Alstyne, and Sangeet Choudary. _Platform Revolution: How Networked Markets are Transforming the Economy and How to Make Them Work for You_. W. W. Norton & Company, 2016. ISBN: 9780393354355.
 
@@ -258,9 +258,9 @@ Games with Incomplete Information and Introduction to Social Learning, Herding, 
 
 Golub, Ben, and Evan Sadler. "[Learning in Social Networks](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199948277.001.0001/oxfordhb-9780199948277-e-12)." In _The Oxford Handbook of the Economics of Networks_. Oxford University Press, 2016.
 
-Acemoglu, Daron, Munther Dahleh, et al. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bayesian Learning in Social Networks (PDF - 12.5MB)](https://economics.mit.edu/files/7717)." _Review of Economic Studies_ 78 (2011): 1201–1236.
+Acemoglu, Daron, Munther Dahleh, et al. "[Bayesian Learning in Social Networks (PDF - 12.5MB)](https://economics.mit.edu/files/7717)." _Review of Economic Studies_ 78 (2011): 1201–1236.
 
-Golub, Benjamin and Matthew Jackson. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Naïve Learning in Social Networks and the Wisdom of Crowds](http://www.people.fas.harvard.edu/~bgolub/papers/naivelearning.pdf).” _Microeconomics_ 2, no. 1 (2010): 112–149.
+Golub, Benjamin and Matthew Jackson. “[Naïve Learning in Social Networks and the Wisdom of Crowds](http://www.people.fas.harvard.edu/~bgolub/papers/naivelearning.pdf).” _Microeconomics_ 2, no. 1 (2010): 112–149.
 
 Goyal, Sanjeev. _Connections: An Introduction to the Economics of Networks_. Princeton University Press, 2009. ISBN: 9780691141183. Chapter 5.
 
