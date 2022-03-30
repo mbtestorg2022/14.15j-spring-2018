@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b9f67b7e-3369-39ee-b99e-51aeba3035bb
 resourcetype: Image
 title: MIT14_15JS18_rec11a.png
 uid: badee777-e475-cbcf-2d0c-fd00b47a34fa
